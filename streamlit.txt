@@ -1,7 +1,7 @@
 streamlit
 aiohttp
-beautifulsoup4
 pandas
+beautifulsoup4
 nltk
-textblob
 matplotlib
+textblob
