@@ -1,0 +1,7 @@
+streamlit
+aiohttp
+beautifulsoup4
+pandas
+nltk
+textblob
+matplotlib
